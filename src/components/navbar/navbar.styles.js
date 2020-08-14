@@ -9,7 +9,7 @@ export const NavBarContainer = styled.nav`
   left: 0;
   padding: 25px 0;
   color: black;
-  background-color: white;
+  //background-color: white;
   z-index: 50;
   transition: top 90ms linear, padding 90ms linear;
 `;

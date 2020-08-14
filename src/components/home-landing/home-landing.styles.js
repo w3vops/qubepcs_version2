@@ -23,5 +23,19 @@ export const HomeLandingWrapper = styled.main`
   width: 100%;
   top: 75%
   }
+  //&::before{
+  //position: absolute;
+  //font-family: "Font Awesome 5 Free",serif;
+  //color: black;
+  //top: 85%;
+  //left: 50%;
+  //content: "\\f063";
+  //font-weight: 900;
+  //font-size: 3rem;
+  //height: 25px;
+  //width: 25px;
+  //z-index: 3;
+  //}
   }
+  
 `;

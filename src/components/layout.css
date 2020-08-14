@@ -525,3 +525,7 @@ pre tt:after {
 .nav-colored a:hover{
   color: #793661 !important;
 }
+
+.hide-overflow{
+  overflow: hidden;
+}

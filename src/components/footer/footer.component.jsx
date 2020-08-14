@@ -12,7 +12,7 @@ const Footer = () => {
                     <Paragraph>We are a prominent provider of professional consultancy services to private and public
                         clients within
                         the sectors of construction, aviation, infrastructure, water & utilities, environmental
-                        projects,
+                        development,
                         property markets and football management.</Paragraph>
                 </Container>
                 <Container>
@@ -33,7 +33,8 @@ const Footer = () => {
                     <HeaderFour>Contact</HeaderFour>
                     <Paragraph>(+233) 02002 16915</Paragraph>
                     <Paragraph>(+44) 07342 834164</Paragraph>
-                    <RawButton link='/' type='primary'>info@qubepcs.com</RawButton>
+                    <a href="mailto:info@qubepcs.com" target='_blank'
+                       rel="noreferrer"><RawButton link='/' type='primary'>info@qubepcs.com</RawButton></a>
                 </Container>
             </MainFooter>
             <Divider/>

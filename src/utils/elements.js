@@ -36,7 +36,7 @@ export const HeaderFour = styled.h4`
   font-family: 'Athiti', sans-serif;
 `;
 export const HeaderFive = styled.h5`
-  font-size: ${typeScale.header1};
+  font-size: ${typeScale.header5};
   font-family: 'Athiti', sans-serif;
 `;
 export const Paragraph = styled.p`

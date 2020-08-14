@@ -21,7 +21,7 @@ const Clients = () => {
     }
   `)
     return (
-        <ClientsWrapper>
+        <ClientsWrapper id='clients'>
             <HeaderTwo>Our clients have received nothing but excellent service from us</HeaderTwo>
             <ClientsContainer>
                 {

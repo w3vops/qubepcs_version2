@@ -9,7 +9,7 @@ const Projects = () => {
             <HeaderTwo>We are global</HeaderTwo>
             <Paragraph>We have worked with Clients, Contractors and Designers both nationally and internationally on
                 varying complex projects including: Aviation, Mixed-use commercial developments, Corporate developments,
-                Utilities, Highways and Universities and School complexes infrastructures.</Paragraph>
+                Utilities, Highways and infrastructure, Universities and School complexes.</Paragraph>
         </ProjectsWrapper>
     );
 };

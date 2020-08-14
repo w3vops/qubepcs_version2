@@ -49,7 +49,7 @@ const HomeAbout = () => {
             <Container style={{gridArea: 'text', marginLeft: '5vw'}}>
                 <HeaderFour>What we do</HeaderFour>
                 <Paragraph>We are a prominent provider of professional consultancy services to private and public clients
-                    within the sectors of construction, aviation, infrastructure, water & utilities, environmental projects,
+                    within the sectors of construction, aviation, infrastructure, water & utilities, environmental development,
                     property markets and football management.
                 </Paragraph>
             </Container>

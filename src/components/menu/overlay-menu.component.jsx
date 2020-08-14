@@ -23,17 +23,17 @@ const OverlayMenu = ({open, setOpen}) => {
                     Home
                 </MenuContent>
             </Link>
-            <Link to="/works">
+            <Link to="/services">
                 <MenuContent open={open} aria-hidden={!isHidden} onClick={() => setOpen(!open)}>
                     Services
                 </MenuContent>
             </Link>
-            <Link to="/#about">
+            <Link to="/#clients">
                 <MenuContent open={open} aria-hidden={!isHidden} onClick={() => setOpen(!open)}>
                     Clients
                 </MenuContent>
             </Link>
-            <Link to="/#contact">
+            <Link to="/about">
                 <MenuContent open={open} aria-hidden={!isHidden} onClick={() => setOpen(!open)}>
                     About Us
                 </MenuContent>

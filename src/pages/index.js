@@ -7,6 +7,8 @@ import Tailor from "../components/tailor/tailor.component";
 import Projects from "../components/projects/projects.components";
 import Clients from "../components/clients/clients.component";
 import HomeSports from "../components/home-sports/home-sports.component";
+import Contact from "../components/contact/contact.component";
+import Professional from "../components/professional/professional.component";
 
 const IndexPage = () => {
     return (
@@ -14,10 +16,12 @@ const IndexPage = () => {
             <SEO title="Home"/>
             <HomeLanding/>
             <HomeAbout/>
+            <Professional/>
             <Tailor/>
             <Projects/>
             <Clients/>
             <HomeSports/>
+            <Contact/>
         </Layout>
     );
 };
