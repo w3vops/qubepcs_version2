@@ -14,7 +14,7 @@ const Contact = () => {
             <Container>
                 <HeaderFour>Mail us</HeaderFour>
                 <a href="mailto:info@qubepcs.com" target='_blank'
-                   rel="noreferrer"><RawButton style={{fontSize: '1.4rem'}}>info@qubepcs.com</RawButton></a>
+                   rel="noreferrer"><RawButton>info@qubepcs.com</RawButton></a>
             </Container>
         </ContactWrapper>
     );

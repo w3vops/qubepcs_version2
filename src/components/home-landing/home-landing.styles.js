@@ -37,5 +37,12 @@ export const HomeLandingWrapper = styled.main`
   //z-index: 3;
   //}
   }
-  
+  @media only screen and (max-width: 600px){
+  .gatsby-image-wrapper{
+  display: none;
+  }
+  h1{
+  font-size: 3.3rem;
+  }
+  }
 `;

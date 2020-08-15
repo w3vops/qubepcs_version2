@@ -9,8 +9,9 @@ export const ClientsWrapper = styled.section`
 `;
 
 export const ClientsContainer = styled.div`
+  width: 100%;
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    grid-template-columns: repeat(auto-fill, 80px);
   grid-template-rows: auto;
   grid-gap: 100px;
   .gatsby-image-wrapper{
@@ -18,5 +19,8 @@ export const ClientsContainer = styled.div`
   object-fit: contain !important;
   }
   filter: grayscale(1);
+  }
+  @media only screen and (min-width: 600px){
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
   }
 `;

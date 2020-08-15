@@ -16,4 +16,12 @@ export const HomeAboutWrapper = styled.section`
   'imageOne imageTwo imageThree imageFour'
   'imageOne . imageThree .'
   ;
+  @media only screen and (max-width: 600px){
+  height: initial;
+  display: block;
+  padding: 30px 5vw 50px ;
+  .gatsby-image-wrapper{
+  display: none;
+  }
+  }
 `;

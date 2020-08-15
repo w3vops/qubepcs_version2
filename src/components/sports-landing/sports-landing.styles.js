@@ -26,4 +26,10 @@ export const SportsLandingWrapper = styled.section`
   z-index: 1;
   }
   }
+  @media only screen and (max-width: 600px){
+      h1{
+        top: 25%;
+        padding: 5vw;
+      }
+  }
 `;

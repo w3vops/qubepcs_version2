@@ -6,7 +6,9 @@ export const ProjectsWrapper = styled.section`
   color: white;
   width: 100%;
   padding: 100px 5vw;
-  p{
+  @media only screen and (min-width: 600px){
+   p{
   max-width: 60%;
+  }
   }
 `;

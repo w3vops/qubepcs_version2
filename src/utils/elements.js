@@ -21,10 +21,16 @@ export const typeScale = {
 export const HeaderOne = styled.h1`
   font-size: ${typeScale.header1};
   font-family: 'Teko', sans-serif;
+  @media only screen and (max-width: 600px){
+  font-size: 3rem;
+  }
 `;
 export const HeaderTwo = styled.h2`
   font-size: ${typeScale.header2};
   font-family: 'Teko', sans-serif;
+  @media only screen and (max-width: 600px){
+  font-size: 2rem;
+  }
 `;
 export const HeaderThree = styled.h3`
   font-size: ${typeScale.header3};

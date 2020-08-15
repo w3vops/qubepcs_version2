@@ -12,4 +12,9 @@ export const ServiceLandingWrapper = styled.section`
   h1{
   margin: 0 0 5px;
   }
+  @media only screen and (max-width: 600px){
+  h1{
+  font-size: 2.3rem;
+  }
+  }
 `;

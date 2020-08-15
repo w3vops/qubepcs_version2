@@ -54,16 +54,16 @@ const ServiceList = () => {
                     Training.</Paragraph></HeaderFour>
             </BigImageContainer>
             <BigImageContainer>
-                <HeaderFour>Project Planning and Scheduling</HeaderFour>
                 <Img fluid={data.plan.childImageSharp.fluid} alt='plan'/>
+                <HeaderFour>Project Planning and Scheduling</HeaderFour>
             </BigImageContainer>
             <BigImageContainer>
                 <Img fluid={data.crane.childImageSharp.fluid} alt='crane'/>
                 <HeaderFour>Construction Management and Site Supervision</HeaderFour>
             </BigImageContainer>
             <BigImageContainer>
-                <HeaderFour>Project Advisory, Consultation & Project Coordination</HeaderFour>
                 <Img fluid={data.laptop.childImageSharp.fluid} alt='laptop'/>
+                <HeaderFour>Project Advisory, Consultation & Project Coordination</HeaderFour>
             </BigImageContainer>
             <BigImageContainer>
                 <Img fluid={data.hands.childImageSharp.fluid} alt='woman planning'/>

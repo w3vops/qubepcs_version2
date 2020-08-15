@@ -7,10 +7,14 @@ export const FooterWrapper = styled.footer`
 `;
 
 export const MainFooter =styled.div`
+  text-align: center;
+  @media only screen and (min-width: 600px){
+  text-align: start;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
   grid-template-rows: auto;
   grid-gap: 40px;
+  }
   >div:nth-of-type(2){
   p{
   margin: 10px;

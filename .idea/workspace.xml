@@ -2,90 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bea834e6-be8b-4f1e-8e26-b86bf0c25a27" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/page-data/service/page-data.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/static/1b5c3d445b6a175dc7525f7aa7da0094/00cb8/engineers.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/static/1b5c3d445b6a175dc7525f7aa7da0094/0c274/engineers.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/static/1b5c3d445b6a175dc7525f7aa7da0094/a9b2a/engineers.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/static/1b5c3d445b6a175dc7525f7aa7da0094/ea7dd/engineers.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/static/1b5c3d445b6a175dc7525f7aa7da0094/f7dca/engineers.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/static/271a189e881f2740e16bee04602fd312/a9b2a/plan.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/static/271a189e881f2740e16bee04602fd312/ea7dd/plan.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/static/271a189e881f2740e16bee04602fd312/f7dca/plan.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/static/677ed73fb9ce0ac17e0494d89b665f54/6a059/engineer.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/static/677ed73fb9ce0ac17e0494d89b665f54/a9b2a/engineer.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/static/677ed73fb9ce0ac17e0494d89b665f54/ea7dd/engineer.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/static/677ed73fb9ce0ac17e0494d89b665f54/f7dca/engineer.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/static/9b0fc32602579aeeec5db8c97158eda5/6a059/group.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/static/9b0fc32602579aeeec5db8c97158eda5/a9b2a/group.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/static/9b0fc32602579aeeec5db8c97158eda5/ea7dd/group.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/static/9b0fc32602579aeeec5db8c97158eda5/f7dca/group.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/static/a4433f76c3e55e4c7cb87e3ecc33c69a/a9b2a/airport-travel-waiting-terminal-34145.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/static/a4433f76c3e55e4c7cb87e3ecc33c69a/ea7dd/airport-travel-waiting-terminal-34145.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/static/a4433f76c3e55e4c7cb87e3ecc33c69a/f7dca/airport-travel-waiting-terminal-34145.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/static/d/130103847.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/static/d/1397245948.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/static/d/1602244808.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/static/d/1936322459.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/static/d/1971480460.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/static/d/1973954230.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/static/d/2818755463.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/static/d/3672279247.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/static/d/3737004778.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/static/d/3947162843.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/static/d/4241993994.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/static/d/4258973856.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/static/d/498555920.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/static/e023f6f70ccd234ac90109c5a9a7e937/50587/professional.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/static/e023f6f70ccd234ac90109c5a9a7e937/f7dca/professional.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/static/ead67daa16b81dc426f8fcc8a3488efc/947df/work.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/static/ead67daa16b81dc426f8fcc8a3488efc/a9b2a/work.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/static/ead67daa16b81dc426f8fcc8a3488efc/ea7dd/work.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/static/ead67daa16b81dc426f8fcc8a3488efc/f7dca/work.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/about-intro/about-intro.component.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/about-intro/about-intro.styles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/about-landing/about-landing.component.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/about-landing/about-landing.styles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/approach/approach.component.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/approach/approach.styles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/contact/contact.component.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/contact/contact.styles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/engineer/Engineer.component.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/engineer/engineer.styles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/professional/professional.component.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/professional/professional.styles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/service-intro/service-intro.component.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/service-intro/service-intro.styles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/service-landing/service-landing.component.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/service-landing/service-landing.styles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/service-list/service-list.component.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/service-list/service-list.styles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/sports-expertise/sports-expertise.component.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/sports-expertise/sports-expertise.styles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/sports-landing/sports-landing.component.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/sports-landing/sports-landing.styles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/work/work.component.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/work/work.styles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/engineer.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/engineers.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/group.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/professional.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/work.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/static/399e8bc80b51d09920c148a35535764f/a9b2a/pitch.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/static/399e8bc80b51d09920c148a35535764f/ea7dd/pitch.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/static/399e8bc80b51d09920c148a35535764f/ef499/pitch.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/static/399e8bc80b51d09920c148a35535764f/f7dca/pitch.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/static/d/1829933861.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/static/d/3229499588.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/sports-partners/sports-partners.styles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/sports-service/sports-service.component.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/pitch.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/page-data/using-typescript/page-data.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/page-data/using-typescript/page-data.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/d/2139131909.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/static/d/2139131909.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/clients/clients.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/clients/clients.component.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/footer/footer.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/footer/footer.component.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/home-about/home-about.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/home-about/home-about.component.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/about-intro/about-intro.styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/about-intro/about-intro.styles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/approach/approach.styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/approach/approach.styles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/clients/clients.style.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/clients/clients.style.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/contact/contact.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/contact/contact.component.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/contact/contact.styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/contact/contact.styles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/engineer/engineer.styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/engineer/engineer.styles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/footer/footer.styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/footer/footer.styles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/home-about/home-about.style.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/home-about/home-about.style.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/home-landing/home-landing.styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/home-landing/home-landing.styles.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/layout.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/menu/overlay-menu.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/menu/overlay-menu.component.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/navbar/navbar.styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/navbar/navbar.styles.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/projects/projects.components.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/projects/projects.components.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/photo-of-three-people-smiling-while-having-a-meeting-3184338.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/priscilla-du-preez-XkKCui44iM0-unsplash.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/about.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/about.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/services.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/services.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/home-sports/home-sports.styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/home-sports/home-sports.styles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/professional/professional.styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/professional/professional.styles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/projects/projects.style.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/projects/projects.style.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/service-landing/service-landing.styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/service-landing/service-landing.styles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/service-list/service-list.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/service-list/service-list.component.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/service-list/service-list.styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/service-list/service-list.styles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/sports-landing/sports-landing.styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/sports-landing/sports-landing.styles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/sports-service/sports-service.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/sports-partners/sports-partners.component.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/sports-service/sports-service.styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/sports-service/sports-service.styles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/tailor/tailor.style.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/tailor/tailor.style.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/work/work.styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/work/work.styles.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/sports.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/sports.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/utils/elements.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/elements.js" afterDir="false" />
     </list>
@@ -96,6 +43,12 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
   </component>
   <component name="ProjectId" id="1g3hLEIqReU2NMW6pzyufWxrmvE" />
   <component name="ProjectLevelVcsManager">
@@ -120,7 +73,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -131,7 +84,7 @@
       <option name="presentableId" value="Default" />
       <updated>1597349128989</updated>
       <workItem from="1597349131346" duration="42753000" />
-      <workItem from="1597428265373" duration="304000" />
+      <workItem from="1597428265373" duration="11669000" />
     </task>
     <servers />
   </component>
@@ -142,6 +95,14 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="340" y="23" key="#HTML" timestamp="1597437174158">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="340" y="23" key="#HTML/0.23.1280.777@0.23.1280.777" timestamp="1597437174158" />
+    <state x="104" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597478434381">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="104" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.777@0.23.1280.777" timestamp="1597478434381" />
     <state x="192" y="210" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597427943107">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
@@ -154,13 +115,13 @@
       <screen x="0" y="23" width="1280" height="777" />
     </state>
     <state x="378" y="164" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1280.777@0.23.1280.777" timestamp="1597397481643" />
-    <state x="171" y="61" key="SettingsEditor" timestamp="1597356299704">
+    <state x="171" y="61" key="SettingsEditor" timestamp="1597437351949">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state x="171" y="61" key="SettingsEditor/0.23.1280.777@0.23.1280.777" timestamp="1597356299704" />
-    <state x="305" y="124" key="search.everywhere.popup" timestamp="1597353232333">
+    <state x="171" y="61" key="SettingsEditor/0.23.1280.777@0.23.1280.777" timestamp="1597437351949" />
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1597437151519">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state x="305" y="124" key="search.everywhere.popup/0.23.1280.777@0.23.1280.777" timestamp="1597353232333" />
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup/0.23.1280.777@0.23.1280.777" timestamp="1597437151519" />
   </component>
 </project>

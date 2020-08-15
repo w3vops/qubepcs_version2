@@ -24,9 +24,19 @@ export const AboutIntroWrapper = styled.div`
   position: absolute;
   z-index: 2;
   top: 25%;
-  right: 0;
+  right: 10vw;
   color: white;
+  width: 80%;
+  }
+  @media only screen and (min-width: 600px){
+  h2{
   width: 50%;
-  margin-right: 5vw;
+  margin-right: 0;
+  }
+  }
+  @media only screen and (max-width: 600px){
+    h2{
+    font-size: 2rem;
+    }
   }
 `;
